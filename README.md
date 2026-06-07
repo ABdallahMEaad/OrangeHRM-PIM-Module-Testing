@@ -197,6 +197,10 @@ Abdallah Ahmed Meaad
 
 QA Engineer | Manual Testing | API Testing | Selenium Automation | JMeter
 
+GitHub: https://github.com/ABdallahMEaad
+
+LinkedIn: https://www.linkedin.com/in/abdallah-meaad/?skipRedirect=true
+
 ---
 
 ## Conclusion
