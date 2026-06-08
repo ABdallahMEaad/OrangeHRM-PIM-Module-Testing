@@ -185,7 +185,6 @@ OrangeHRM-PIM-Module-Testing/
 ├── Test Cases
 ├── Test Execution
 ├── Bug Reports
-├── RTM
 └── Execution Summary
 ```
 
