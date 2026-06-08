@@ -183,7 +183,6 @@ OrangeHRM-PIM-Module-Testing/
 │
 ├── Test Plan
 ├── Test Cases
-├── Test Execution
 ├── Bug Reports
 └── Execution Summary
 ```
